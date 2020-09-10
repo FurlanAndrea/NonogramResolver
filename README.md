@@ -23,6 +23,7 @@ You can create a new Windows Form Application and copy-paste the repository file
 Select a monochromatic puzzle that needs to be solved, for example:
 
 ![image](https://drive.google.com/uc?export=view&id=1ZvBgMxioyKgZTe9zvpro5YxqSP6G4iO0)
+
 and copy the identifier of this nonogram into the textbox application, in this case 2421.
 
 ### Solve the nonogram
